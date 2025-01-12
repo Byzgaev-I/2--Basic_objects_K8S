@@ -28,14 +28,14 @@
 
 ![image](https://github.com/Byzgaev-I/2--Basic_objects_K8S/blob/main/5-К.png)
 
-![image](https://github.com/Byzgaev-I/2--Basic_objects_K8S/blob/main/6-К.png
+![image](https://github.com/Byzgaev-I/2--Basic_objects_K8S/blob/main/6-К.png)
 
 
 
 ## Использованные манифесты
 
 Все манифесты находятся в директории manifests:
-- hello-world-pod.yaml
-- netology-web-pod.yaml
-- netology-svc.yaml
+- hello-world-pod.yaml https://github.com/Byzgaev-I/2--Basic_objects_K8S/blob/main/manifests/hello-world-pod.yaml
+- netology-web-pod.yaml https://github.com/Byzgaev-I/2--Basic_objects_K8S/blob/main/manifests/netology-web-pod.yaml
+- netology-svc.yaml https://github.com/Byzgaev-I/2--Basic_objects_K8S/blob/main/manifests/netology-svc.yaml
 
