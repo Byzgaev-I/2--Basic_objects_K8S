@@ -22,4 +22,4 @@
 - hello-world-pod.yaml
 - netology-web-pod.yaml
 - netology-svc.yaml
-# 2--Basic_objects_K8S
+
